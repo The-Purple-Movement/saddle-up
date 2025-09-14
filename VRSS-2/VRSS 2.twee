@@ -1,0 +1,217 @@
+  :: StoryTitle
+  VRSS 2
+
+
+  :: StoryData
+  {
+    "ifid": "9F4FD62F-8851-4E10-B9E4-3525F06BE8C5",
+    "format": "Harlowe",
+    "format-version": "3.3.9",
+    "start": "VRSS 2",
+    "zoom": 0.6
+  }
+
+
+  :: About {"position":"375,0","size":"200,100"}
+  ### VRSS 2 - About
+  Earth Observation Satellite
+  (click-append: "Earth Observation Satellite")[ : *Orbits the Earth to collect information.*]
+  Mission Duration: 5 years
+  Countries: 
+  Venezuela China
+  (click-replace: "Venezuela")[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag-map_of_Venezuela.svg/1188px-Flag-map_of_Venezuela.svg.png">]
+  (click-replace: "China")[<img src="https://static.vecteezy.com/system/resources/thumbnails/017/763/318/small/china-country-flag-and-map-free-vector.jpg">]
+
+
+  :: Accomplishments {"position":"900,325","size":"200,100"}
+  ### VRSS 2 - Accomplishments
+  Outlived the mission duration of 5 years and still contributing to the goodness of Venezuela.
+
+
+  :: Capabilities {"position":"950,175","size":"200,100"}
+  ### VRSS 2 - Imaging Capabilities
+  <table border="true" cellpadding="5" cellspacing="0">
+  <tr>
+  <td rowspan="6">**High Resolution Camera (HRC Sensor)**</td>
+  <td>**Radiometric Resolution**</td>
+  <td>**Sweeping Width**</td>
+  <td>**Spatial Resolution (m)**</td>
+  <td>**Spectral Bands**</td>
+  <td>**Spectral Ranges (nm)**</td>
+  </tr>
+  <tr>
+  <td rowspan="6">10 bits</td>
+  <td rowspan="6">30 km</td>
+  <td>1</td>
+  <td>Panchromatic</td>
+  <td>500 - 800</td>
+  </tr>
+  <tr>
+  <td>3</td>
+  <td>Multispectral Scanner Band 1</td>
+  <td>450 - 520</td>
+  </tr>
+  <tr>
+  <td>3</td>
+  <td>Multispectral Scanner Band 2</td>
+  <td>520 - 590</td>
+  </tr>
+  <tr>
+  <td>3</td>
+  <td>Multispectral Scanner Band 3</td>
+  <td>630 - 690</td>
+  </tr>
+  <tr>
+  <td>3</td>
+  <td>Multispectral Scanner Band 4</td>
+  <td>770 - 890</td>
+  </tr>
+  <tr>
+  <td rowspan="8">**Infra Red Camera (IRC Sensor)**</td>
+  </tr>
+  <tr>
+  <td rowspan="8">12 bits</td>
+  <td rowspan="8">30 km</td>
+  <td colspan="3">**Short Wave Infrared**</td>
+  </tr>
+  <tr>
+  <td>30</td>
+  <td>1</td>
+  <td>900 - 1100</td>
+  </tr>
+  <tr>
+  <td>30</td>
+  <td>2</td>
+  <td>1180 - 1300</td>
+  </tr>
+  <tr>
+  <td>30</td>
+  <td>3</td>
+  <td>1550 - 1700</td>
+  </tr>
+  <tr>
+  <td colspan="3">**Long Wave Infrared**</td>
+  </tr>
+  <tr>
+  <td>60</td>
+  <td>1</td>
+  <td>10300 - 11300</td>
+  </tr>
+  <tr>
+  <td>60</td>
+  <td>2</td>
+  <td>11500 - 12500</td>
+  </tr>
+  </table>
+
+
+  :: Launch {"position":"825,0","size":"200,100"}
+  ### VRSS 2 - Launch
+  * Date: 09 October 2017
+  * Launch Site: Jiuquan Satellite Launch Center(click-append:"Jiuquan Satellite Launch Center")[ – *China's earliest launch facility*.
+  <img src="https://news.cgtn.com/news/2024-04-24/China-s-Space-Day-Quest-of-Jiuquan-Satellite-Launch-Center-1t4gZLk5RE4/img/4ec598ff3c4f4736a1439889458e8da7/4ec598ff3c4f4736a1439889458e8da7.png">]
+
+  * Carrier Rocket: Long March 2D(click-append:"Long March 2D")[
+  ** Long March 2D is a carrier rocket that launches remote sensing satellites into space. 
+  ** It is also known as Chang Zheng 2D.
+  ** Manufactured by: Shanghai Academy of Spaceflight Technology
+  (click-replace: "Shanghai Academy of Spaceflight Technology")[ Chinese Space Agency.]
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSwKy0lp0KC4Khp_e0IXel-dvhX2zcVFrJVYFXuV94mo_pyROh0Kya9L1Hk8HEiJD06RLliBxqubvco2S2MN4_AEVDOfuccKV0RAFoipN5LngVAj5kWBYydMKj-tr0P9WtMYt9Wrma66P8Hm8o4fs3dTtF9Iz14_YzQpvW7R_ciyc-_mS6pNXNzrnRgs/s4096/IMG%204.jpg">]
+  Watch Video
+  (click: "Watch Video")[<iframe width="560" height="315" src="https://www.youtube.com/embed/jjNiulXIBVc?si=GKuX7X62P5-IVRYK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]
+
+
+
+
+  :: Location {"position":"300,400","size":"200,100"}
+  ### VRSS 2 - Location
+  Low Earth Orbit 
+  (click-replace: "Low Earth Orbit")[A Low Earth Orbit is the closest type of orbit to the Earth.
+  <img src="https://substackcdn.com/image/fetch/$s_!r4Gg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1437b219-9a35-40e0-866b-b25e2c7da20c_715x415.gif">]
+
+
+
+
+
+
+  :: Mission {"position":"300,125","size":"200,100"}
+  ### VRSS 2 - Mission
+  Bring ease, peace and security to the land and lives of Venezuela.
+
+
+  :: Purpose {"position":"250,275","size":"200,100"}
+  ### VRSS 2 - Purpose
+  * Land resource inspection
+  * Environmental protection 
+  * Disaster monitoring and management
+  * Crop yield estimation 
+  * City planning
+
+
+  :: Technical Aspects {"position":"725,475","size":"200,100"}
+  ### VRSS 2 - Technical Aspects
+
+  NORAD ID: 42954  (click: "NORAD ID")[ (*Special number given to all human-made objects in space.*)]
+
+  COSPAR ID: 2017-060A (click: "COSPAR ID")[ (*The Internationally agreed-upon naming convention for satellites.*)]
+
+  Perigee: 612.86 km (click: "Perigee")[ (*The closest point to Earth of a satellite in elliptical orbit.*)]
+
+  Apogee: 637.12 km (click: "Apogee")[ (*The point in the orbit of a satellite that is farthest from the earth.*)]
+
+  Inclination: 97.7° (click: "Inclination")[ (*The satellite circles the Earth in anorbit inclined 97.7° degrees to the equator.*)]
+
+  Orbital period: 98.6 minutes (click: "Orbital period")[ (*The time it takes for an object to go all the way around another object, in this case, the Earth..*)]
+
+  Weight: 1000 kg
+
+  Type of Orbit: Sun-synchronous (click: "Sun-synchronous")[ (*An orbit around the Earth, where the movement of the satellite always looks the same when viewed from the Sun..*)]
+
+
+
+
+
+
+  :: VRSS 2 {"position":"575,125","size":"200,200"}
+  ### VRSS 2
+
+  =|=
+  [[About]]
+
+  [[Mission]]
+
+  [[Purpose]]
+
+  [[Location]]
+  =|=
+  <img src="https://news.cgtn.com/news/78516a4d7a597a6333566d54/img/4e025d91-d02a-44e5-af2e-08ca6ffae9a8.jpg">
+  =|=
+  [[Launch]]
+
+  [[Capabilities]]
+
+  [[Accomplishments]]
+
+  [[Technical Aspects]]
+  |==|
+
+
+
+
+  :: StoryStylesheet [stylesheet]
+  tw-story {
+  background-color: #c9cdef;
+  color: black;
+
+  }
+
+  td {
+  padding: 20px; 
+  }
+
+
+  img {
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  }
